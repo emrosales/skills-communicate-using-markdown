@@ -6,3 +6,15 @@
 ###### This is a header H6
 
 ![Image of Yaktocat](https://octodex.github.com/images/vinyltocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` python
+myVar = "Hello, world!"
+print(myVar)
+secVar = myVar[::-1]
+print(secVar)
+```

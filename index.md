@@ -18,3 +18,8 @@ print(myVar)
 secVar = myVar[::-1]
 print(secVar)
 ```
+
+# Adding a list
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
